@@ -7,12 +7,13 @@ draft: false
 
 ## To-Do List
 
-1. [정적 사이트 생성기 선택하기(`Gatsby`)](https://sasumpi123.github.io/Blog/gitBlogStart/)
-2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/Blog/gitBlogStart/)
-3. [`Git Repository` 생성하기](https://sasumpi123.github.io/Blog/gitBlogStart2/)
-4. [Local 환경에서 Test 해보기](https://sasumpi123.github.io/Blog/gitBlogStart2/)
+1. [정적 사이트 생성기 선택하기(`Gatsby`)](https://sasumpi123.github.io/Blog/gitblogstart/)
+2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/Blog/gitblogstart/)
+3. [`Git Repository` 생성하기](https://sasumpi123.github.io/Blog/gitblogstart2/)
+4. [Local 환경에서 Test 해보기](https://sasumpi123.github.io/Blog/gitblogstart2/)
 5. `Github Action`으로  블로그 배포 자동화하기
 6. Posting 시작하기
+
 
 ***      
 
@@ -29,7 +30,7 @@ draft: false
  ex) 필자의 아이디는 **sasumpi123** 이므로 Repository 이름은   
 **sasumpi123.github.io** 가 된다
 
-Repository를 생성했다면 우리가 파일들을 다운받았던 폴더 `my-blog-starter`에서    
+- Repository를 생성했다면 우리가 파일들을 다운받았던 폴더 `my-blog-starter`에서    
 `git bash`를 실행시킨다
 이후 
 ```
@@ -37,13 +38,13 @@ rm -rf .git
 git init 
 ```
 위 명령어들을 이용해 해당 폴더 Git 정보를 초기화 한다   
-만약 본인의 OS가 `Window`라면 해당 폴더에서 숨김파일을 볼수있게 한 뒤
+- 만약 본인의 OS가 `Window`라면 해당 폴더에서 숨김파일을 볼수있게 한 뒤
 .git폴더를 삭제한후 깃 bash에서 
 ```
 git init
 ```
 위 명령어만 실행시켜줘도 무방하다   
-만약 본인이 `SourceTree`등 GitTool을 사용하고 있다면   
+- 만약 본인이 `SourceTree`등 GitTool을 사용하고 있다면   
 현재 폴더의 파일들을 방금 생성한 `Repository`에 `Commit`후 `Push`하면 되지만   
 사용하지 않는 사람들은
 
@@ -102,7 +103,7 @@ npm run post
 명령 어를 입력한뒤 원하는 명령어로 **방향키**와 **엔터**를 통해 실행된 프로세스에서 원하는 행동을 수행할 수 있다.  
 Create Category를 선택후 **엔터**를 입력하면 Category명을 입력할 수 있고 입력후 포스트 제목을 입력 할 수 있다.   
 이후 모든 작업이 완료되면 
-`content/blog/`경로에 자신이 만든 Category명으로 폴더가 생성되고 안에
+`/content/blog/`경로에 자신이 만든 Category명으로 폴더가 생성되고 안에
 자신이 입력한 제목의 마크다운 문서가 만들어져 있는 것을 확인 할 수 있다.   
 이제 만들어진 `파일명.md` 파일에 마크다운문법을 이용해 글을 작성하면 된다!
 
