@@ -7,6 +7,7 @@ draft: false
 
 ## To-Do List
 
+
 1. [정적 사이트 생성기 선택하기(`Gatsby`)](https://sasumpi123.github.io/Blog/gitblogstart/)
 2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/Blog/gitblogstart/)
 3. [`Git Repository` 생성하기](https://sasumpi123.github.io/Blog/gitblogstart2/)
