@@ -2,7 +2,7 @@ module.exports = {
   title: `MuriMuri's Dev Note`,
   description: `Blog posted about ...`,
   author: `[MuriMuri]`,
-  introduction: `무리무리의 DevNote..\n 공부한 것을 기록하자...!`,
+  introduction: `무리무리의 DevNote.. 공부한 것을 기록하자...!`,
   siteUrl: `https://sasumpi123.github.io/`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
