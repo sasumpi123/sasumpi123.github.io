@@ -1,17 +1,17 @@
 ---
-title: Git 블로그 개설하기!(1)
-date: 2020-04-14 15:04:25
-category: Blog
+title: Git 블로그 개설하기!(2)
+date: 2020-04-14 17:04:25
+category: general
 draft: false
 ---
 
 ## To-Do List
 
 
-1. [정적 사이트 생성기 선택하기(`Gatsby`)](https://sasumpi123.github.io/Blog/gitblogstart1/)
-2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/Blog/gitblogstart1/)
-3. [`Git Repository` 생성하기](https://sasumpi123.github.io/Blog/gitblogstart2/)
-4. [Local 환경에서 Test 해보기](https://sasumpi123.github.io/Blog/gitblogstart2/)
+1. [정적 사이트 생성기 선택하기(`Gatsby`)](https://sasumpi123.github.io/general/gitblog1/)
+2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/general/gitblog1/)
+3. [`Git Repository` 생성하기](https://sasumpi123.github.io/general/gitblog2/)
+4. [Local 환경에서 Test 해보기](https://sasumpi123.github.io/general/gitblog2/)
 5. `Github Action`으로  블로그 배포 자동화하기
 6. Posting 시작하기
 
