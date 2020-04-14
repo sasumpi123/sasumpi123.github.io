@@ -8,9 +8,9 @@ draft: false
 ## To-Do List
 
 1. [정적 사이트 생성기 선택하기(`Gatsby`)](https://sasumpi123.github.io/Blog/gitBlogStart/)
-2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기]((https://sasumpi123.github.io/Blog/gitBlogStart/))
-3. `Git Repository` 생성하기
-4. Local 환경에서 Test 해보기
+2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/Blog/gitBlogStart/)
+3. [`Git Repository` 생성하기](https://sasumpi123.github.io/Blog/gitBlogStart2/)
+4. [Local 환경에서 Test 해보기](https://sasumpi123.github.io/Blog/gitBlogStart2/)
 5. `Github Action`으로  블로그 배포 자동화하기
 6. Posting 시작하기
 
@@ -78,3 +78,9 @@ cd my-blog-starter/
 npm start
 ```
 두 명령어를 실행한다면 localhost:8000 에서 다운받아온 Theme의 블로그를 확인할 수 있다!   
+
+
+
+
+## 출처
+[JaeYeopHan/gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
