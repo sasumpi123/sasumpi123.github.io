@@ -1,5 +1,5 @@
 ---
-title: Git 블로그 개설하기!(2)
+title: Git 블로그 개설하기!(1)
 date: 2020-04-14 17:04:25
 category: general
 draft: false
@@ -60,15 +60,15 @@ npm --version
 ```
 
 위 기본적인 환경설정을 마쳤다면 이제 우리가 사용할 Theme를 다운받아보자   
-먼저 터미널을 파일들을 다운받고 싶은 경로로 이동한 후,   
+- 먼저 터미널을 파일들을 다운받고 싶은 경로로 이동한 후,   
 ```
 npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
 ```
 위 내용을 그대로 터미널에 붙여넣기해준다.
-만약 자신이 npx를 사용하지 않는다면
+- 만약 자신이 npx를 사용하지 않는다면
 
 ```
-npm install -g gatsby-cli
+npm install gatsby-cli
 gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
 ```
 
