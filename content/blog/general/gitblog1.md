@@ -60,19 +60,19 @@ npm --version
 ```
 
 위 기본적인 환경설정을 마쳤다면 이제 우리가 사용할 Theme를 다운받아보자   
-- 먼저 터미널을 파일들을 다운받고 싶은 경로로 이동한 후,   
+- 먼저 터미널을 파일들을 다운받고 싶은 경로로 이동한 후,
 ```
 npx gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
 ```
 위 내용을 그대로 터미널에 붙여넣기해준다.
-- 만약 자신이 npx를 사용하지 않는다면
 
+- 만약 자신이 npx를 사용하지 않는다면
 ```
 npm install gatsby-cli
 gatsby new my-blog-starter https://github.com/JaeYeopHan/gatsby-starter-bee
 ```
-
 위 명령어로 다운받아 올 수 있다.   
+
 설치가 모두 끝났다면
 ```
 cd my-blog-starter/
