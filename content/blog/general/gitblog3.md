@@ -72,21 +72,21 @@ jobs:
 먼저 `GitHub Action`을 사용하여 내 `Repository`에 접근하기 위해    
 `Token`을 생성하여 적용시켜주어야 한다.
 
-[토큰생성하기!!](https://github.com/settings/tokens)
-위 링크로 들어가면   
+[토큰생성하기!!](https://github.com/settings/tokens)   
+해당 링크로 들어가면   
 ![](./images/createToken.png)
-위와 같은 화면이 나올것이다.    
+위와 같은 화면이 나온다.    
 여기서 `Generate new token` 버튼을 누르면 `Token` 생성하는 화면이 나올것이다.
 
 ![](./images/createToken2.png)
-여기서 Note 부분에 자신이 정하고싶은 이름을 적어주면되고    
+여기서 `Note` 부분에 자신이 정하고싶은 이름을 적어주면되고    
 `scopes`는 `repo` 모든박스들을 체크해주면 된다.   
 아래에 추가적으로 다양한 권한을 부여할수있지만 필자는 `Repository` 에 관련된
 권한만 추가하였다.   
 위 작업을 끝낸뒤 아래로 내려가 create 버튼을 누르면
 ![](./images/createToken3.png)
-위 노란 박스안에 자신이 사용할 키가 생성된다.
-위 키를 복사해놓자!.
+노란 박스안에 자신이 사용할 키가 생성된다.
+위 키를 복사해놓자!
 
 
 이제 생성한 `Token`을 적용해보자   
