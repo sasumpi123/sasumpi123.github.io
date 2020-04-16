@@ -12,8 +12,7 @@ draft: false
 2. [선택한 정적 사이트 생성기에서 원하는 theme 다운받기](https://sasumpi123.github.io/general/gitblog1/)
 3. [`Git Repository` 생성하기](https://sasumpi123.github.io/general/gitblog2/)
 4. [Local 환경에서 Test 해보기](https://sasumpi123.github.io/general/gitblog2/)
-5. `Github Action`으로  블로그 배포 자동화하기
-6. Posting 시작하기
+5. [`Github Action`으로  블로그 배포 자동화하기](https://sasumpi123.github.io/general/gitblog3/)
 
 
 ***      
@@ -149,11 +148,17 @@ jobs:
 모든 작업을 마무리하고 새로만든 브랜치에서 파일들을 `Push`한후   
 자신의 `Repository`에서 `Action` 탭을 확인해보면
 
+![](./images/upload.png)
+
 위처럼 노란색 원이 돌고있을것이다. 이 원이 초록색 체크모양으로 변하면   
 작업한 브랜치에서 `Master`로 `Merge`가 성공적으로 끝난것이고    
 잠시후 자신의 블로그를 확인해보면   
 정상적으로 작성한 글들이 업로드 된 것을 확인할수있다.
 
-이젠 MarkDown 문법을 사용하여 글들을 작성하고 작업하는 브랜치에 `Push` 하면   
+이젠 `MarkDown` 문법을 사용하여 글들을 작성하고 작업하는 브랜치에 `Push` 하면   
 블로그 글들을 자동 배포할수있다!
    
+
+
+## 출처
+[Github Action으로 Gatsby 블로그 배포 자동화하기](https://alstn2468.github.io/Automation/2020-01-24-GatsbyGithubAction/)
