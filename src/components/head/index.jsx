@@ -53,7 +53,16 @@ export function Head({ description, lang, meta, keywords, title }) {
               {
                 name: "google-site-verification",
                 content: "smqDVDkVG9jW3HBJxDpGAsA2oYCbTud2DE4iQ04b1gc"
+              },
+              {
+                name: "data-ad-client",
+                content: "ca-pub-3898341020530524",
+              },
+              {
+                name: "src",
+                content: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
               }
+
             ]
               .concat(
                 keywords.length > 0
