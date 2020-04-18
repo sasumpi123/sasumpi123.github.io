@@ -1,5 +1,5 @@
 ---
-title: 블로그에 기능 추가하기!(1)
+title: 블로그에 기능 추가하기!(Google Search Console)
 date: 2020-04-18 17:04:70
 category: general
 draft: false
