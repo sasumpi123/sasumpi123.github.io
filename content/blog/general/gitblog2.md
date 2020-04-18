@@ -1,6 +1,6 @@
 ---
 title: Git 블로그 개설하기!(2)
-date: 2020-04-14 17:04:25
+date: 2020-04-14 19:04:25
 category: general
 draft: false
 ---
