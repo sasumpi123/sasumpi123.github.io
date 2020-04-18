@@ -15,6 +15,7 @@ draft: false
 5. [`Github Action`으로  블로그 배포 자동화하기](https://sasumpi123.github.io/general/gitblog3/)
 
 
+
 ***      
 이전단계까지 문제없이 진행했다면 글을 작성하고 마스터에 `Push` 하면   
 자신의 `Url`에 해당 글들이 업로드되는걸 확인 할 수 있다.
