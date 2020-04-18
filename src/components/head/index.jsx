@@ -61,6 +61,10 @@ export function Head({ description, lang, meta, keywords, title }) {
               {
                 name: "src",
                 content: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+              },
+              {
+                name: "naver-site-verification",
+                content: "961b2ab429359902f4624d7491557a2760f8c584",
               }
 
             ]
