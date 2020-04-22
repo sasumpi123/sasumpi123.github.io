@@ -79,13 +79,13 @@ app.listen(port, function () {
     console.log('server on! ' + port);
 });
 ```
-위 내용들을 index.js에 입력하고 터미널 혹은 cmd에서    
-nodemon을 입력하면 아래와 같은 내용이 출력되면서 서버가 켜진것을 확인할 수 있다. 
+위 내용들을 `index.js`에 입력하고 터미널 혹은 cmd에서    
+`nodemon`을 입력하면 아래와 같은 내용이 출력되면서 서버가 켜진것을 확인할 수 있다. 
 ![](./images/mern1.png)
 이제 우리가 간단하게 만든 서버가 켜졌다!!   
 
 인터넷에서 **http://localhost:3001/** 로 들어가보면    
-hello world!를 마주할수있다.
+**"hello world!"**를 마주할수있다.
 
 다음포스팅부터 위 코드 분석을 시작으로 최대한 필자가 알고있는것을 전부 적어보려한다.   
 파이팅!
