@@ -1,10 +1,11 @@
 ---
-title: MERN 스택(Express.js, Mongoose)
+title: MERN 스택(Express.js, MongDB 연결)
 date: 2020-04-22 15:04:97
 category: mern
 draft: false
 ---
 
+## Node.js와 MongoDB 연결하기
 이전 포스트에서 우리가 간단하게 만들었던 서버 코드이다   
 하나씩 살펴보고 지나가자
 
@@ -31,9 +32,9 @@ app.listen(port, function () {          // 해당 port번호로 리스닝이 성
 또한 해당 `url`로 접속했을때 웹 페이지에 
 **"hello world!"**를 출력해준다.
 
-간단하게 서버를 만들었고 이제 서버에 MongoDB를 연결해 보자.
-먼저 server 폴더 안에 db 폴더를 만들고      
-db 폴더안에 index.js 파일을 생성한다.   
+간단하게 서버를 만들었고 이제 서버에 `MongoDB`를 연결해 보자.
+먼저 `server` 폴더 안에 `db` 폴더를 만들고      
+`db` 폴더안에 `index.js` 파일을 생성한다.   
 
 ```
 MERN
