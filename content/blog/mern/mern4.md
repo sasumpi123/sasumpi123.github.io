@@ -63,7 +63,7 @@ mongoose
         console.error('Connection error', e.message)
     })
                                             // mongoose 를 사용하여 MongoDB에 
-                                            // 연결하고 addr이라는 DB생성
+                                            // 연결하고 addr이라는 Collection과 연결
                                             // 에러 발생시 콘솔에 에러 출력
 const db = mongoose.connection
                                             // db객체에 MongoDB연결 정보 담가
